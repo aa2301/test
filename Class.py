@@ -8,6 +8,7 @@ class Student():
         print("Student ID: ",self.student_id)
         print("Student Name: ",self.student_name)
         print("Student Class: ",self.student_class)
+        
 a=Student("101","Jacqueline Barnett")
 a.newattr("VII")
 a.get()
